@@ -16,7 +16,7 @@
     "mime": "1.2.11",
     "optimist": "0.6.1",
     "optipng": "0.1.1",
-    "passerror": "0.0.1",
+    "passerror": "0.0.2",
     "pngcrush": "0.1.0",
     "pngquant": "https://github.com/podio/node-pngquant/archive/v0.4.1-podio.tar.gz"
   },
